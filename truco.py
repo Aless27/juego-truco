@@ -188,26 +188,3 @@ while opcion != 'n':
 
 # print(f'ganador {ganador}')
 
-
-
-
-
-# di
-# Diego Vargas
-# 21:40
-# class Bici():
-# ruedas = 2
-
-# def __init__(self, marca, color):
-# self.marca = marca
-# self.color = color
-
-
-# bici_olmo_1 = Bici('Olmo', 'Gris')
-
-
-# print(f'El color del marco de la bici es: {bici_olmo_1.color}')
-# print(f'La marca del marco de la bici es: {bici_olmo_1.marca}')
-# print(f'La cantidad de ruedas es: {bici_olmo_1.ruedas}')
-
-
